@@ -28,7 +28,7 @@ It highlights my projects, skills, experience, and also features a blog section 
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](assets/ayush.jpeg)  
+![Portfolio Screenshot](assets/Web.jpeg)  
 
 
 ---
